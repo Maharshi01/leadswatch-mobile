@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 13900,
+  "expoServerNgrokUrl": "https://qn-ry2.anonymous.leadbase-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.qn-ry2.anonymous.leadbase-app.exp.direct",
+  "ngrokPid": 9616,
+  "webpackServerPort": null
+}

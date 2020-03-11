@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "LeadsWatch",
+    "slug": "LeadsWatch",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/png/leadswatchios.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.fission.LeadsWatch",
+      "buildNumber": "0.0.2",
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app requires access to the camera to upload account profile picture."
+      }
+    },
+    "android": {
+      "package": "com.Fission.LeadsWatch",
+      "versionCode": 4,
+      "permissions": [
+        ""
+      ]
+    }
+  }
+}
